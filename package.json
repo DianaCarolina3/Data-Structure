@@ -1,0 +1,18 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "course of data structure",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/array/tempCodeRunnerFile.js"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Diana Carolina Campuzano Garzón <dcaroli2015@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.13.14"
+  }
+}
