@@ -13,6 +13,6 @@
   "author": "Diana Carolina Campuzano Garzón <dcaroli2015@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.13.14"
+    "@babel/core": "^7.13.15"
   }
 }
