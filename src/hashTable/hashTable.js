@@ -34,7 +34,7 @@ class HashTable {
     // obtengo el bucket
     if(currentBucket) {
       for(let i = 0; i < currentBucket.length; i++) {
-        if(currentBucket[i][0] === key) {
+        if(currentBucket[i][0]) {
           return currentBucket[i][1];
         }
       }
